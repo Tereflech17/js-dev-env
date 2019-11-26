@@ -19,6 +19,7 @@
   "author": "Terence Biney",
   "license": "MIT",
   "dependencies": {
+    "figlet": "^1.2.4",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
